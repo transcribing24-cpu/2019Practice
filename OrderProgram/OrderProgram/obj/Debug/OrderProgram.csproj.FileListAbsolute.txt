@@ -1,0 +1,10 @@
+C:\Users\56017286\source\repos\2019Practice\OrderProgram\OrderProgram\bin\Debug\OrderProgram.exe.config
+C:\Users\56017286\source\repos\2019Practice\OrderProgram\OrderProgram\bin\Debug\OrderProgram.exe
+C:\Users\56017286\source\repos\2019Practice\OrderProgram\OrderProgram\bin\Debug\OrderProgram.pdb
+C:\Users\56017286\source\repos\2019Practice\OrderProgram\OrderProgram\obj\Debug\OrderProgram.csproj.AssemblyReference.cache
+C:\Users\56017286\source\repos\2019Practice\OrderProgram\OrderProgram\obj\Debug\OrderProgram.Form1.resources
+C:\Users\56017286\source\repos\2019Practice\OrderProgram\OrderProgram\obj\Debug\OrderProgram.Properties.Resources.resources
+C:\Users\56017286\source\repos\2019Practice\OrderProgram\OrderProgram\obj\Debug\OrderProgram.csproj.GenerateResource.cache
+C:\Users\56017286\source\repos\2019Practice\OrderProgram\OrderProgram\obj\Debug\OrderProgram.csproj.CoreCompileInputs.cache
+C:\Users\56017286\source\repos\2019Practice\OrderProgram\OrderProgram\obj\Debug\OrderProgram.exe
+C:\Users\56017286\source\repos\2019Practice\OrderProgram\OrderProgram\obj\Debug\OrderProgram.pdb
